@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### My name is Ryan
+* I'm currently learning TypeScript and Python
+
 <!--
 **Rymul/Rymul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
