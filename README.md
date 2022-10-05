@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 ### My GitHub Stats
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rymul)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rymul&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rymul)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rymul&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
