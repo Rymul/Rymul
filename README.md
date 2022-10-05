@@ -17,7 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Languages and Tools
 
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,postgres,express,mongodb,nodejs,rails,ruby,html,css,git,github,aws,heroku,d3)](https://skillicons.dev)
+
+
+### Connect with me
+
+
+### My GitHub Stats
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rymul)](https://github.com/anuraghazra/github-readme-stats)
 
