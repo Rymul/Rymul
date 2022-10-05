@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,postgres,express,mongodb,nodejs,rails,ruby,html,css,git,github,aws,heroku,d3)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,react,redux,postgres,express,mongodb,nodejs,rails,ruby,html,css,git,github,aws,heroku,d3)
 
 
 ### Connect with me
@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 ### My GitHub Stats
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rymul&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rymul&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rymul&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rymul&theme=tokyonight)
