@@ -1,4 +1,4 @@
-### Hi 👋 I'm Ryan
+### Hi I'm Ryan 👋
 
 - 🌱 I’m currently learning TypeScript and Python
 - ⛺️ Checkout my recent project: [Basecamp](https://base-camp.herokuapp.com/) [(Repo Link)](https://github.com/Rymul/basecamp)
