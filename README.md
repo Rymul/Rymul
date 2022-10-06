@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning TypeScript and Python
 - ⛺️ Checkout my recent project: [Basecamp](https://base-camp.herokuapp.com/) [(Repo Link)](https://github.com/Rymul/basecamp)
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanfmullen/) or [Email](mailto:ryanfmullen@gmail.com)
 
 ### Languages and Tools
 
