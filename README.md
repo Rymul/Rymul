@@ -4,10 +4,6 @@
 - ⛺️ Checkout my recent project: [Basecamp](https://base-camp.herokuapp.com/) [(Repo Link)](https://github.com/Rymul/basecamp)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanfmullen/) or [Email](mailto:ryanfmullen@gmail.com)
 
-### Languages and Tools
-
-![My Skills](https://skillicons.dev/icons?i=js,react,redux,postgres,express,mongodb,rails,ruby,html,css,git,github,aws,heroku,d3)
-
 
 ### Connect with me
 
