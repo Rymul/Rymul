@@ -1,6 +1,6 @@
 ### Hi I'm Ryan 👋
 
-- 🌱 I’m currently learning TypeScript and Python
+- 📠 Writing professionally in TypeScript and Python
 - 🎧 Checkout my recent project: [Restructure](https://github.com/mulgul/restructure-yt)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanfmullen/) or [Email](mailto:ryanfmullen@gmail.com)
 
