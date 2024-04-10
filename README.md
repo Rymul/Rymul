@@ -1,7 +1,7 @@
 ### Hi I'm Ryan 👋
 
 - 📠 Writing professionally in TypeScript and Python
-- 🎧 Checkout my recent project: [Restructure](https://github.com/mulgul/restructure-yt)
+- #️⃣ Checkout my recent project: [File Hasher](https://file-hasher.com/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryanfmullen/) or [Email](mailto:ryanfmullen@gmail.com)
 
 
